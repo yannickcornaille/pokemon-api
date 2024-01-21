@@ -1,0 +1,163 @@
+[{
+	"_id": {
+		"$oid": "659ed370c90087650ee79367"
+	},
+	"id": 39,
+	"name": "Vol",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/7/7f/Flying.png",
+	"englishName": "flying"
+},
+{
+	"_id": {
+		"$oid": "659ed370c90087650ee7936b"
+	},
+	"id": 37,
+	"name": "Normal",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/f/fb/Normal.png",
+	"englishName": "normal"
+},
+{
+	"_id": {
+		"$oid": "659ed370c90087650ee79365"
+	},
+	"id": 40,
+	"name": "Poison",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/0/05/Poison.png",
+	"englishName": "poison"
+},
+{
+	"_id": {
+		"$oid": "659ed370c90087650ee7936e"
+	},
+	"id": 48,
+	"name": "Plante",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/c/c5/Grass.png",
+	"englishName": "grass"
+},
+{
+	"_id": {
+		"$oid": "659ed370c90087650ee79371"
+	},
+	"id": 47,
+	"name": "Eau",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/9/9d/Water.png",
+	"englishName": "water"
+},
+{
+	"_id": {
+		"$oid": "659ed370c90087650ee79368"
+	},
+	"id": 41,
+	"name": "Sol",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/8/8f/Ground.png",
+	"englishName": "ground"
+},
+{
+	"_id": {
+		"$oid": "659ed370c90087650ee79370"
+	},
+	"id": 46,
+	"name": "Feu",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/3/30/Fire.png",
+	"englishName": "fire"
+},
+{
+	"_id": {
+		"$oid": "659ed370c90087650ee79376"
+	},
+	"id": 49,
+	"name": "Électrik",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/2/2f/Electric.png",
+	"englishName": "electric"
+},
+{
+	"_id": {
+		"$oid": "659ed370c90087650ee7936d"
+	},
+	"id": 43,
+	"name": "Insecte",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/7/7d/Bug.png",
+	"englishName": "bug"
+},
+{
+	"_id": {
+		"$oid": "659ed370c90087650ee79374"
+	},
+	"id": 53,
+	"name": "Ténèbres",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/0/0e/Dark.png",
+	"englishName": "dark"
+},
+{
+	"_id": {
+		"$oid": "659ed370c90087650ee79369"
+	},
+	"id": 44,
+	"name": "Spectre",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/a/ab/Ghost.png",
+	"englishName": "ghost"
+},
+{
+	"_id": {
+		"$oid": "659ed370c90087650ee7936a"
+	},
+	"id": 42,
+	"name": "Roche",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/0/0b/Rock.png",
+	"englishName": "rock"
+},
+{
+	"_id": {
+		"$oid": "659ed370c90087650ee79366"
+	},
+	"id": 38,
+	"name": "Combat",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/3/30/Fighting.png",
+	"englishName": "fighting"
+},
+{
+	"_id": {
+		"$oid": "659ed370c90087650ee7936f"
+	},
+	"id": 50,
+	"name": "Psy",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/2/21/Psychic.png",
+	"englishName": "psychic"
+},
+{
+	"_id": {
+		"$oid": "659ed370c90087650ee7936c"
+	},
+	"id": 45,
+	"name": "Acier",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/c/c9/Steel.png",
+	"englishName": "steel"
+},
+{
+	"_id": {
+		"$oid": "659ed370c90087650ee79372"
+	},
+	"id": 52,
+	"name": "Dragon",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/c/c7/Dragon.png",
+	"englishName": "dragon"
+},
+{
+	"_id": {
+		"$oid": "659ed370c90087650ee79373"
+	},
+	"id": 51,
+	"name": "Glace",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/7/77/Ice.png",
+	"englishName": "ice"
+},
+{
+	"_id": {
+		"$oid": "659ed370c90087650ee79375"
+	},
+	"id": 54,
+	"name": "Fée",
+	"image": "https://static.wikia.nocookie.net/pokemongo/images/4/43/Fairy.png",
+	"englishName": "fairy"
+}]
+
