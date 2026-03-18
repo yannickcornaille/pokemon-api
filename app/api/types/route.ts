@@ -8,7 +8,7 @@ export async function GET(request: NextRequest) {
     const collection = db.collection('types');
     const results = await collection
       .find()
-      .project({ _id: 0, id: 1, name: 1, image: 1})
+      .project({ _id: 0, id: 1, name: 1, image: 1, englishName: 1 })
       .toArray();
     return new Response(
       JSON.stringify(results),
